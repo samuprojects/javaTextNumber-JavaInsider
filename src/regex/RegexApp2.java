@@ -3,7 +3,7 @@ package regex;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RegexApp1_1 {
+public class RegexApp2 {
 
     public static void main(String[] args) {
         printMatches("abcabc", "ab"); // incluído o modelo da aula anterior em um método
